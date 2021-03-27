@@ -1,10 +1,10 @@
-Start testing: Mar 27 12:33 EDT
+Start testing: Mar 27 12:44 EDT
 ----------------------------------------------------------
 1/9 Testing: Runs
 1/9 Test: Runs
 Command: "/mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake/Help/guide/tutorial/Step5_build/Tutorial" "25"
 Directory: /mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake_cicd/Step5_build
-"Runs" start time: Mar 27 12:33 EDT
+"Runs" start time: Mar 27 12:44 EDT
 Output:
 ----------------------------------------------------------
 Computing sqrt of 25 to be 5 using log and exp
@@ -13,7 +13,7 @@ The square root of 25 is 5
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"Runs" end time: Mar 27 12:33 EDT
+"Runs" end time: Mar 27 12:44 EDT
 "Runs" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -21,7 +21,7 @@ Test Passed.
 2/9 Test: Usage
 Command: "/mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake/Help/guide/tutorial/Step5_build/Tutorial"
 Directory: /mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake_cicd/Step5_build
-"Usage" start time: Mar 27 12:33 EDT
+"Usage" start time: Mar 27 12:44 EDT
 Output:
 ----------------------------------------------------------
 /mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake/Help/guide/tutorial/Step5_build/Tutorial Version 1.0
@@ -32,7 +32,7 @@ Test time =   0.01 sec
 Test Pass Reason:
 Required regular expression found.Regex=[Usage:.*number
 ]
-"Usage" end time: Mar 27 12:33 EDT
+"Usage" end time: Mar 27 12:44 EDT
 "Usage" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -40,7 +40,7 @@ Required regular expression found.Regex=[Usage:.*number
 3/9 Test: Comp4
 Command: "/mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake/Help/guide/tutorial/Step5_build/Tutorial" "4"
 Directory: /mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake_cicd/Step5_build
-"Comp4" start time: Mar 27 12:33 EDT
+"Comp4" start time: Mar 27 12:44 EDT
 Output:
 ----------------------------------------------------------
 Computing sqrt of 4 to be 2 using log and exp
@@ -51,7 +51,7 @@ Test time =   0.01 sec
 Test Pass Reason:
 Required regular expression found.Regex=[4 is 2
 ]
-"Comp4" end time: Mar 27 12:33 EDT
+"Comp4" end time: Mar 27 12:44 EDT
 "Comp4" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -59,7 +59,7 @@ Required regular expression found.Regex=[4 is 2
 4/9 Test: Comp9
 Command: "/mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake/Help/guide/tutorial/Step5_build/Tutorial" "9"
 Directory: /mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake_cicd/Step5_build
-"Comp9" start time: Mar 27 12:33 EDT
+"Comp9" start time: Mar 27 12:44 EDT
 Output:
 ----------------------------------------------------------
 Computing sqrt of 9 to be 3 using log and exp
@@ -70,7 +70,7 @@ Test time =   0.01 sec
 Test Pass Reason:
 Required regular expression found.Regex=[9 is 3
 ]
-"Comp9" end time: Mar 27 12:33 EDT
+"Comp9" end time: Mar 27 12:44 EDT
 "Comp9" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -78,7 +78,7 @@ Required regular expression found.Regex=[9 is 3
 5/9 Test: Comp5
 Command: "/mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake/Help/guide/tutorial/Step5_build/Tutorial" "5"
 Directory: /mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake_cicd/Step5_build
-"Comp5" start time: Mar 27 12:33 EDT
+"Comp5" start time: Mar 27 12:44 EDT
 Output:
 ----------------------------------------------------------
 Computing sqrt of 5 to be 2.23607 using log and exp
@@ -89,7 +89,7 @@ Test time =   0.01 sec
 Test Pass Reason:
 Required regular expression found.Regex=[5 is 2.236
 ]
-"Comp5" end time: Mar 27 12:33 EDT
+"Comp5" end time: Mar 27 12:44 EDT
 "Comp5" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -97,7 +97,7 @@ Required regular expression found.Regex=[5 is 2.236
 6/9 Test: Comp7
 Command: "/mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake/Help/guide/tutorial/Step5_build/Tutorial" "7"
 Directory: /mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake_cicd/Step5_build
-"Comp7" start time: Mar 27 12:33 EDT
+"Comp7" start time: Mar 27 12:44 EDT
 Output:
 ----------------------------------------------------------
 Computing sqrt of 7 to be 2.64575 using log and exp
@@ -108,7 +108,7 @@ Test time =   0.01 sec
 Test Pass Reason:
 Required regular expression found.Regex=[7 is 2.645
 ]
-"Comp7" end time: Mar 27 12:33 EDT
+"Comp7" end time: Mar 27 12:44 EDT
 "Comp7" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -116,7 +116,7 @@ Required regular expression found.Regex=[7 is 2.645
 7/9 Test: Comp25
 Command: "/mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake/Help/guide/tutorial/Step5_build/Tutorial" "25"
 Directory: /mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake_cicd/Step5_build
-"Comp25" start time: Mar 27 12:33 EDT
+"Comp25" start time: Mar 27 12:44 EDT
 Output:
 ----------------------------------------------------------
 Computing sqrt of 25 to be 5 using log and exp
@@ -127,7 +127,7 @@ Test time =   0.01 sec
 Test Pass Reason:
 Required regular expression found.Regex=[25 is 5
 ]
-"Comp25" end time: Mar 27 12:33 EDT
+"Comp25" end time: Mar 27 12:44 EDT
 "Comp25" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -135,7 +135,7 @@ Required regular expression found.Regex=[25 is 5
 8/9 Test: Comp-25
 Command: "/mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake/Help/guide/tutorial/Step5_build/Tutorial" "-25"
 Directory: /mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake_cicd/Step5_build
-"Comp-25" start time: Mar 27 12:33 EDT
+"Comp-25" start time: Mar 27 12:44 EDT
 Output:
 ----------------------------------------------------------
 The square root of -25 is 0
@@ -145,7 +145,7 @@ Test time =   0.01 sec
 Test Pass Reason:
 Required regular expression found.Regex=[-25 is [-nan|nan|0]
 ]
-"Comp-25" end time: Mar 27 12:33 EDT
+"Comp-25" end time: Mar 27 12:44 EDT
 "Comp-25" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -153,7 +153,7 @@ Required regular expression found.Regex=[-25 is [-nan|nan|0]
 9/9 Test: Comp0.0001
 Command: "/mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake/Help/guide/tutorial/Step5_build/Tutorial" "0.0001"
 Directory: /mnt/c/Users/boylek3/Documents/RPI/2021/Spring/OpenSource/cmake_cicd/Step5_build
-"Comp0.0001" start time: Mar 27 12:33 EDT
+"Comp0.0001" start time: Mar 27 12:44 EDT
 Output:
 ----------------------------------------------------------
 Computing sqrt of 0.0001 to be 0.01 using log and exp
@@ -164,8 +164,8 @@ Test time =   0.01 sec
 Test Pass Reason:
 Required regular expression found.Regex=[0.0001 is 0.01
 ]
-"Comp0.0001" end time: Mar 27 12:33 EDT
+"Comp0.0001" end time: Mar 27 12:44 EDT
 "Comp0.0001" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Mar 27 12:33 EDT
+End testing: Mar 27 12:44 EDT
